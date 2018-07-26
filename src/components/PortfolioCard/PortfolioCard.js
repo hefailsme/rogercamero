@@ -12,10 +12,10 @@ class PortCard extends Component {
                   <View className="rounded z-depth-2 mb-lg-5 mb-4" hover waves>
                     <h3 className="blue-text font-weight-bold mb-8 p-0"><strong>BRIGHT LIGHTS BASEMENT</strong></h3>
                     <p className="blbio">Bright Lights Basement is a MERN Stack App. The purpose of this app
-                    is to act at the home base for a music/media studio out of Santa Ana, California.
+                    is to act as the home base for a music & media studio out of Santa Ana, California.
                     </p><p className="blbio">The app also utilizes the following NPM packages:<br />
                     MDBReact, Axios, Body-Parser, and Font Awesome.</p><p className="blbio"> Because it was built with Bootstrap, Bright Lights Basement
-                    is Mobile-Friendly App. MongoDB used to store website data, which feeds the content to the app.  </p>
+                    is Mobile-Friendly App. MongoDB is used to store website data, which feeds the content to the app.  </p>
                    </View> 
               </Col>              
               <Col lg="6">
@@ -66,7 +66,7 @@ class PortCard extends Component {
               <Col lg="6">
                 <h3 className="blue-text font-weight-bold mb-8 p-0"><strong>HE FAILS ME</strong></h3>
                 <p className="blbio">He Fails Me is a Sequelize Express Node JS app. Styled using CSS and Bootstrap,
-                He Fails Me also utilizes MySQL and JQuery. This app was built as a marketing tool for a musician
+                He Fails Me also utilizes a MySQL Database and JQuery. This app was built as a marketing tool for a musician
                 who also works behind the scenes in audio production.</p><br /><p className="blbio"> This is a content heavy application
                 that was built for desktop viewing. Users can navigate through the website to learn about the artist, stream their music 
                 from the app, view tour dates as well as merchandise, and send a message to the artist. </p>
@@ -129,7 +129,7 @@ class PortCard extends Component {
             <Row>
               <Col lg="6">
                 <h3 className="blue-text font-weight-bold mb-8 p-0"><strong>RNRD</strong></h3>
-                <p className="blbio">RNRD is a interactive multimedia aggregate. This app was built using HTML,
+                <p className="blbio">RNRD is an interactive multimedia aggregate. This app was built using HTML,
                 CSS, and JQuery. Additionally, this app was styled using Materialize UI and Google Font. <br /></p>
                 <p className="blbio">Users can use this app to search for information regarding their favorite bands and artists.
                 By using the API's for Ticketmaster, Youtube, and MusicMatch, the app user's query will return them current information
