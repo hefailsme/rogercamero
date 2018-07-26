@@ -39,6 +39,9 @@ render() {
                       <NavItem>
                           <NavLink className="blue-text" to ="/portfolio" onClick="/portfolio">PORTFOLIO</NavLink>
                       </NavItem>
+                      <NavItem>
+                          <NavLink className="blue-text" to ="/resume" onClick="/resume">RESUME</NavLink>
+                      </NavItem>
                     </NavbarNav>
                 </Collapse>
                 <Collapse isOpen = { this.state.collapse } navbar>

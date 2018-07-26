@@ -1,11 +1,11 @@
 import React from 'react'
 import Navbar from '../components/Navbar/Navbar'
-import Portfolio from '../components/PortfolioCard/PortfolioCard'
+import Resume from '../components/ResumeCard/ResumeCard'
 import Footer from '../components/Footer/Footer'
 import {Row} from 'mdbreact'
 
 
-class Port extends React.Component {
+class Res extends React.Component {
     
     componentDidMount() {
 
@@ -17,11 +17,11 @@ class Port extends React.Component {
                 <Row>
                 <Navbar />
                 </Row>
-                <Portfolio />
+                <Resume />
                 <Footer />               
             </div>
         )
     }   
 }
 
-export default Port
+export default Res
