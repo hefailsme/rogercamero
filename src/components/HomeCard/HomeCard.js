@@ -24,12 +24,12 @@ class HomeCard extends Component {
 
                   <h3 className="blue-text font-weight-bold mb-8 p-0"><strong>MY BACKGROUND</strong></h3>
 
-                  <p className="background"> For the past 20 years, I've been an audio engineer and musician.
+                  <p className="background"> For the past 20 years, I've been an Audio Engineer and Musician.
                   In 1998, I started out as a musician playing in a touring punk band, and I also began producing and engineering albums.
                   In 2005, I shifted gears towards a focus on the "Behind The Scenes" aspect of the music industry.
-                  I traveled working as a touring Front-of-House Live Sound Engineer, a Stage Manager, as well as a Tech. During my touring down-time, 
-                  I stayed busy producing and engineering records in Southern California. In the Fall of 2016, I went on my last tour as a sound engineer,
-                  and then retired from touring.</p>
+                  I worked as a touring Front-of-House Live Sound Engineer, a Stage Manager, as well as a Tech. During my touring downtime, 
+                  I stayed busy producing and engineering records in Southern California. In the Fall of 2016, I went on my last tour as a Sound Engineer,
+                  and then retired from touring to begin my journey as a web developer.</p>
 
               </Col>
               </Row>
@@ -37,8 +37,8 @@ class HomeCard extends Component {
             <Row>
               <Col lg="7">
                 <h3 className="blue-text font-weight-bold mb-8 p-0"><strong>WEB DEVELOPMENT</strong></h3>
-                <p className="web">In January of 2018, I enrolled in the UCI Continuing Education Full-Stack 
-                Web Development Bootcamp. Throughout the course of 6 months, I immersed myself in learning
+                <p className="web">I enrolled in the UCI Continuing Education Full-Stack 
+                Web Development Bootcamp. Throughout the 6 month course, I immersed myself in learning
                 the fundamentals of Web Development, quickly pushing myself to get up to speed with the newest, most 
                 relevant technologies. By the end of the course, I was able to build a MERN Stack 
                 Application by myself. While I've become a big fan of working with React JS, I've built apps with Vanilla Javascript, 
