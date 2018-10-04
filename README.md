@@ -19,7 +19,4 @@ Technologies
 - Font Awesome NPM
 - Bootstrap
 
-Future Improvements
-
-- Fix Broken Navbar links
 
