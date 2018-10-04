@@ -46,12 +46,14 @@ render() {
                 </Collapse>
                 <Collapse isOpen = { this.state.collapse } navbar>
                     <NavbarNav right>
-                      <NavItem>
-                        <NavLink to="https://github.com/hefailsme" target="_blank" onClick="https://github.com/hefailsme"><Fa icon="github"/></NavLink>
-                      </NavItem>
-                      <NavItem>
-                        <NavLink to="https://www.linkedin.com/in/roger-camero-966014156/" target="_blank" onClick="https://www.linkedin.com/in/roger-camero-966014156/"><Fa icon="linkedin"/></NavLink>
-                      </NavItem>
+                        <NavItem>&nbsp;&nbsp;&nbsp;</NavItem>
+                        <NavItem>                      
+                            <a href="https://github.com/hefailsme" target="_blank" rel="noopener noreferrer"><Fa icon="github"/></a>
+                        </NavItem>
+                        <NavItem>&nbsp;&nbsp;&nbsp;</NavItem>
+                        <NavItem>                         
+                            <a href="https://www.linkedin.com/in/roger-camero-966014156/" target="_blank" rel="noopener noreferrer"><Fa icon="linkedin"/></a>
+                        </NavItem>
                     </NavbarNav>
             </Collapse>
             </Navbar>
